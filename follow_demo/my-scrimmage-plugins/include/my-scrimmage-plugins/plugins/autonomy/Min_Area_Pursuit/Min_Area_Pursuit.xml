@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://gtri.gatech.edu"?>
+<params>
+  <library>Min_Area_Pursuit_plugin</library>
+  <initial_speed>24.3</initial_speed>
+  <attack_view_length>24.3</attack_view_length>
+</params>

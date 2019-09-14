@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://gtri.gatech.edu"?>
+<params>
+  <library>FlyAroundSphere_plugin</library>
+  <initial_speed>150</initial_speed>
+  <attack_radius>5</attack_radius>
+  <view_radius>10</view_radius>
+</params>

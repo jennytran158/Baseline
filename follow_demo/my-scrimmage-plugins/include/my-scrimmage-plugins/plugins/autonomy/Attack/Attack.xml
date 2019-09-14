@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://gtri.gatech.edu"?>
+<params>
+  <library>Attack_plugin</library>
+  <initial_speed>24.3</initial_speed>
+  <attack_view_length>20</attack_view_length>
+  <view_length>100</view_length>
+</params>
